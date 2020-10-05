@@ -1,15 +1,17 @@
 [submodule "weuq-01"]
 	path = weuq-01
 	url = https://github.com/SimCenterExpo/weuq-01.git
-[submodule "weuq-07"]
-	path = weuq-07
-	url = https://github.com/SimCenterExpo/weuq-07.git
 [submodule "weuq-04"]
 	path = weuq-04
 	url = https://github.com/SimCenterExpo/weuq-04.git
+[submodule "weuq-07"]
+	path = weuq-07
+	url = https://github.com/SimCenterExpo/weuq-07.git
 [submodule "weuq-08"]
 	path = weuq-08
 	url = https://github.com/SimCenterExpo/weuq-08.git
+
+
 [submodule "quo-01"]
 	path = quo-01
 	url = https://github.com/SimCenterExpo/quo-01.git
@@ -31,3 +33,14 @@
 [submodule "quo-07"]
 	path = quo-07
 	url = https://github.com/SimCenterExpo/quo-07.git
+
+
+[submodule "eeuq-01"]
+	path = eeuq-01
+	url = https://github.com/SimCenterExpo/eeuq-01.git
+[submodule "eeuq-02"]
+	path = eeuq-02
+	url = https://github.com/SimCenterExpo/eeuq-02.git
+[submodule "eeuq-03"]
+	path = eeuq-03
+	url = https://github.com/SimCenterExpo/eeuq-03.git
